@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-scheduler-bot",
+  "version": "2.0.0",
+  "description": "Multimodal Bilingual AI WhatsApp Scheduler Bot integrated with Urutau ERP and Evolution API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test tests/bot.test.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.3.1",
+    "express": "^5.2.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

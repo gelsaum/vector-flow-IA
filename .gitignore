@@ -1,0 +1,11 @@
+node_modules
+tokens/
+.env
+credentials.json
+logs/
+*.log
+.DS_Store
+output.txt
+*.txt
+*.sqlite*
+graphify-out/
